@@ -1,0 +1,3 @@
+set(APP_SRC
+    ${APP_SRC}
+    PARENT_SCOPE)
